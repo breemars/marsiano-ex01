@@ -25,5 +25,5 @@ run {
 }
 
 application {
-    mainClass = "challenges.Challenge1"
+    mainClass = "Solution01"
 }

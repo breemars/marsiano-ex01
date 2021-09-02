@@ -10,12 +10,12 @@ public class Solution01 {
     create scanner
     ask user their name
     input name as string
-    string concatenation
+    create the string concatenation
     output the final string
      */
     public static void main(String[] args){
 
-        //IN - Asks the user for their name and stores it as a variable
+        //IN - Asks the user for their name and stores it as a string
         Scanner input = new Scanner(System.in);
         System.out.print("What is your name? ");
         String name = input.nextLine();
